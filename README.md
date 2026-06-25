@@ -30,3 +30,6 @@ The interface features a control panel that triggers independent asynchronous ac
 1. Clone the repository:
    ```bash
    git clone [https://github.com/korolczuk/java-concurrency-swing-demo.git](https://github.com/korolczuk/java-concurrency-swing-demo.git)
+   ```
+2. Open the project in your favorite IDE (Eclipse, IntelliJ IDEA, or NetBeans).
+3. Run the `Main` class to launch the application GUI.
